@@ -19,14 +19,6 @@ export const introMessage = [
 	"| " + underline + "https://labs.leaningtech.com/blog/webvm-claude" + normal + "                              |",
 	"|                                                                             |",
 	"+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~+",
-	"",
-	"   Welcome to WebVM. If unsure, try these examples:",
-	"",
-	"     python3 examples/python3/fibonacci.py ",
-	"     gcc -o helloworld examples/c/helloworld.c && ./helloworld",
-	"     objdump -d ./helloworld | less -M",
-	"     vim examples/c/helloworld.c",
-	"     curl --max-time 15 parrot.live  # requires networking",
 	""
 ];
 export const errorMessage = [
